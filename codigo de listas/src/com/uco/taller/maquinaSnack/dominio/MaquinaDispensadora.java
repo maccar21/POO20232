@@ -117,5 +117,3 @@ public class MaquinaDispensadora {
     }
 }
 
-// relaciones entre clases, manejo de memoria en java, que es el garbage collector, sobrecarga de constructures,
-//constante, getter and setters
